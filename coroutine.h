@@ -1,6 +1,3 @@
-//
-// Created by EmTVt on 2025/3/12.
-//
 
 #pragma once
 
